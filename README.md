@@ -10,15 +10,22 @@ Sudden oak death in North America and Sudden larch death in Europe are devastati
 
 ## Authors
 
-Nicholas C. Cauldron$^1$, Alexandra J. Weisberg$^1$, Caroline M. Press$^2$, Marília Horta Jung$^3$, Tamara Corcobado$^3$, Joan F. Webber$^4$, Koji Kageyama$^5$, Ayaka Hieno$^5$, Hayato Masuya$^6$, Seiji Uematsu$^7$, Bruno Scanu$^8$, Clive M. Brasier$^4$, Thomas Jung$^3$, Jeff H. Chang$^1$, and Niklaus J. Grünwald$^2$
+Nicholas C. Cauldron<sup>1</sup>, Alexandra J. Weisberg<sup>1</sup>, Caroline M. Press<sup>2</sup>, Marília Horta Jung<sup>3</sup>, Tamara Corcobado<sup>3</sup>, Joan F. Webber<sup>4</sup>, Koji Kageyama<sup>5</sup>, Ayaka Hieno<sup>5</sup>, Hayato Masuya<sup>6</sup>, Seiji Uematsu<sup>7</sup>, Bruno Scanu<sup>8</sup>, Clive M. Brasier<sup>4</sup>, Thomas Jung<sup>3</sup>, Jeff H. Chang<sup>1</sup>, and Niklaus J. Grünwald<sup>2</sup>
 
 1 Department of Botany and Plant Pathology, Oregon State University, Corvallis, Oregon 97331, USA
+
 2 Horticultural Crops Disease and Pest Management Research Unit, USDA Agricultural Research Service, Corvallis, OR 97330, USA
+
 3 Phytophthora Research Centre, Faculty of Forestry and Wood Technology, Mendel University in Brno, 613 00 Brno, Czech Republic
+
 4 Forest Research, Alice Holt Lodge, Farnham, Surrey, GU10 4LH, UK
+
 5 River Basin Research Center, Gifu University, Gifu 501-1193, Japan
+
 6 Forestry and Forest Products Research Institute (FFPRI), Tsukuba, Ibaraki 305-8687, Japan
+
 7 Department of Bioregulation and Bio-interaction, Tokyo University of Agriculture and Technology, Fuchu, Tokyo 183-8509, Japan
+
 8 Department of Agricultural Sciences, University of Sassari, 07100 Sassari, Italy
 
 ## Extended methods
